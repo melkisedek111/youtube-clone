@@ -1,8 +1,8 @@
 import React from "react";
-
+import './RecommendedVideos.css';
 const RecommendedVideos = () => {
     return (
-        <div className="recommendedvideos">
+        <div className="recommendedVideos">
             <h1>RecommendedVideos</h1>
         </div>
     );
